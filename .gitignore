@@ -33,7 +33,6 @@ logs/
 demo_output.json
 evaluation_report.html
 evaluation_results.json
-.env
 
 # Datasets (only include scripts to generate/download them)
 # docs/*.txt
@@ -42,6 +41,7 @@ evaluation_results.json
 # !docs/.gitkeep
 
 # IDEs
-.vscode/
 .idea/
 .DS_Store
+config.bat
+node_modules
